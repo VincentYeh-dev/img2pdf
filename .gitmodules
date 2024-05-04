@@ -1,6 +1,6 @@
 [submodule "gui"]
 	path = gui
-	url = C:\\Users\\vincent\\Documents\\git_projects\\Windows\\img2pdf\\gui
+	url = https://github.com/VincentYeh-dev/img2pdf-gui.git
 [submodule "lib"]
 	path = lib
-	url = C:\\Users\\vincent\\Documents\\git_projects\\Windows\\img2pdf\\lib
+	url = https://github.com/VincentYeh-dev/img2pdf-lib.git
